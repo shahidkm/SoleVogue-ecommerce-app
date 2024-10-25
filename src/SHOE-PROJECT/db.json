@@ -1,0 +1,442 @@
+{
+  "item": [
+    {
+      "id": "1",
+      "name": "shoe",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/489b06f3-42b4-45a2-aa75-4cfb16ac2e71/NIKE+COURT+VISION+LO+NN.png",
+      "price": "200",
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "2",
+      "name": "Casual Sneaker ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b1778add-1da0-4891-b830-f5105b15ea56/AIR+JORDAN+1+RETRO+HIGH+OG+GS.png",
+      "price": 45.99,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "3",
+      "name": "Sports Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5fb82b1a-95bd-4cbb-87a6-a845a68203dc/NIKE+GO+FLYEASE.png",
+      "price": 75.5,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "4",
+      "name": "Leather Shoe",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/26193eff-8dc2-4a0f-bd87-c7b239aa28e4/NIKE+AIR+MAX+ISHOD.png",
+      "price": 85,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "5",
+      "name": "Athletic Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d5ce757d-d5c9-430a-a10a-fc80e98ad645/NIKE+REAX+8+TR+MESH.png",
+      "price": 90.99,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "6",
+      "name": "Comfort Shoe",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4696e1a5-e03e-4e70-8b0f-5bf9f1b2d17d/JORDAN+JUMPMAN+SLIDE.png",
+      "price": 69.99,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "7",
+      "name": "Outdoor Boot ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c3fb2d4d-65b2-461f-b11c-1ca0b35806b0/NIKE+REVOLUTION+7+%28TDV%29.png",
+      "price": 120,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "8",
+      "name": "High-Top Sneaker - Model H",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/e7c9aadd-242a-4dd4-8509-6ddf9645525e/AIR+JORDAN+1+RETRO+HIGH+OG.png",
+      "price": 55.75,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "9",
+      "name": "Training Shoe",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/0b7c6c17-e399-4e73-a7e0-52c99fe095d5/NIKE+AIR+FORCE+1+GS.png",
+      "price": 77.25,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "10",
+      "name": "Slip-On Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d60f42f2-206f-4383-a1b4-a21fb116de67/NIKE+OFFCOURT+SLIDE.png",
+      "price": 42.5,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "11",
+      "name": "Basketball Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d6242443-257d-40af-8f4f-deba3d496eb5/NIKE+DUNK+LOW+RETRO.png",
+      "price": 105.99,
+      "type": "men",
+      "quantity": 100
+    },
+    {
+      "id": "12",
+      "name": "Trail Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22b54716-778d-45eb-8595-d9a9cf8a7257/W+NIKE+DUNK+LOW.png",
+      "price": 89.99,
+      "type": "men"
+    },
+    {
+      "id": "13",
+      "name": "Running Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/21156fae-5d67-446c-b675-616f14f89325/NIKE+CALM+MULE.png",
+      "price": 59.99,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "14",
+      "name": "Casual Sneaker ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f688601a-fb51-490c-be2d-f792bf28830b/NIKE+INTERACT+RUN.png",
+      "price": 45.99,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "15",
+      "name": "Sports Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6969944c-c00b-4a59-83e8-7a5e2bb80f12/NIKE+DUNK+LOW+RETRO.png",
+      "price": 75.5,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "16",
+      "name": "Leather Shoe",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/b83a6ee2-2c79-4550-8168-0c6f3bfd6b63/AIR+MAX+1+%28GS%29.png",
+      "price": 85,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "17",
+      "name": "Athletic Shoe - Model E",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f30fe9b7-8e3b-4728-b212-5f52c0641e11/AIR+JORDAN+9+RETRO.png",
+      "price": 90.99,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "18",
+      "name": "Comfort Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a3734282-d3ff-4df6-96bd-bbe1227ef63c/NIKE+CORTEZ.png",
+      "price": 69.99,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "19",
+      "name": "Outdoor Boot ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/842700c8-51c8-4a4a-86fe-9f1ecb7b0984/AIR+FORCE+1+LOW+EVO.png",
+      "price": 120,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "20",
+      "name": "High-Top Sneaker",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/82be71c5-8bb1-4eae-979c-40654587e39a/TEAM+HUSTLE+D+11+%28GS%29.png",
+      "price": 55.75,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "21",
+      "name": "Training Shoe",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/85f4973d-4233-45f7-8a74-b6c155f87c06/AIR+JORDAN+1+MID+%28GS%29.png",
+      "price": 77.25,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "22",
+      "name": "Slip-On Shoe",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/a7ef34f4-4883-41ff-abe5-fe27c57866d7/JORDAN+NU+RETRO+1+LOW.png",
+      "price": 42.5,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "23",
+      "name": "Basketball Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/fcf8f26c-2681-4bc1-9e4d-c0df54dcb783/WMNS+AIR+JORDAN+4+RETRO.png",
+      "price": 105.99,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "24",
+      "name": "Trail Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/f82558ed-76b4-488e-9bf7-06f687478a23/JORDAN+LUKA+2+PF.png",
+      "price": 89.99,
+      "type": "women"
+    },
+    {
+      "id": "25",
+      "name": "Trail Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/94d5bb36-7ca0-40a2-b429-b6026e2601a1/AIR+MAX+90.png",
+      "price": 89.99,
+      "type": "women",
+      "quantity": 100
+    },
+    {
+      "id": "26",
+      "name": "Trail Shoe ",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3734f2bb-6e08-415e-a328-dcda54b69116/NIKE+LUNAR+ROAM.png",
+      "price": 89.99,
+      "type": "women",
+      "quantity": 100
+    }
+  ],
+  "users": [
+    {
+      "id": "e9cd",
+      "Username": "naseeb",
+      "Email": "naseeb@gmail.com",
+      "Password": "111111",
+      "Active": true,
+      "cart": [],
+      "orders": [
+        {
+          "user": {
+            "name": "cfcgfhg",
+            "address": "cgg ",
+            "mobile": "2222222222"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "Sports Shoe ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5fb82b1a-95bd-4cbb-87a6-a845a68203dc/NIKE+GO+FLYEASE.png",
+              "price": 75.5,
+              "type": "men",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 75.5,
+          "orderDate": "2024-10-16T06:49:30.578Z"
+        },
+        {
+          "user": {
+            "name": "yvvvb",
+            "address": "vyvhv h",
+            "mobile": "2222222222"
+          },
+          "items": [
+            {
+              "id": "6",
+              "name": "Comfort Shoe",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/4696e1a5-e03e-4e70-8b0f-5bf9f1b2d17d/JORDAN+JUMPMAN+SLIDE.png",
+              "price": 69.99,
+              "type": "men",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 69.99,
+          "orderDate": "2024-10-16T06:54:56.799Z"
+        },
+        {
+          "user": {
+            "name": "naseeb",
+            "address": "kondotty",
+            "mobile": "9048220313"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "Sports Shoe ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5fb82b1a-95bd-4cbb-87a6-a845a68203dc/NIKE+GO+FLYEASE.png",
+              "price": 75.5,
+              "type": "men",
+              "quantity": 2
+            },
+            {
+              "id": "4",
+              "name": "Leather Shoe",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/26193eff-8dc2-4a0f-bd87-c7b239aa28e4/NIKE+AIR+MAX+ISHOD.png",
+              "price": 85,
+              "type": "men",
+              "quantity": 1
+            },
+            {
+              "id": "2",
+              "name": "Casual Sneaker ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b1778add-1da0-4891-b830-f5105b15ea56/AIR+JORDAN+1+RETRO+HIGH+OG+GS.png",
+              "price": 45.99,
+              "type": "men",
+              "quantity": 1
+            },
+            {
+              "id": "1",
+              "name": "Running Shoe",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/489b06f3-42b4-45a2-aa75-4cfb16ac2e71/NIKE+COURT+VISION+LO+NN.png",
+              "price": 59.99,
+              "type": "men",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 341.98,
+          "orderDate": "2024-10-16T09:02:09.123Z"
+        }
+      ]
+    },
+    {
+      "id": "a66c",
+      "Username": "shahid",
+      "Email": "shahid@gmail.com",
+      "Password": "111111",
+      "Active": true,
+      "cart": [],
+      "orders": [
+        {
+          "user": {
+            "name": "nknk",
+            "address": "xcz",
+            "mobile": "1111111111"
+          },
+          "items": [
+            {
+              "id": "3",
+              "name": "Sports Shoe ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5fb82b1a-95bd-4cbb-87a6-a845a68203dc/NIKE+GO+FLYEASE.png",
+              "price": 75.5,
+              "type": "men",
+              "quantity": 1
+            },
+            {
+              "id": "2",
+              "name": "Casual Sneaker ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b1778add-1da0-4891-b830-f5105b15ea56/AIR+JORDAN+1+RETRO+HIGH+OG+GS.png",
+              "price": 45.99,
+              "type": "men",
+              "quantity": 1
+            },
+            {
+              "id": "1",
+              "name": "Running Shoe",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/489b06f3-42b4-45a2-aa75-4cfb16ac2e71/NIKE+COURT+VISION+LO+NN.png",
+              "price": 59.99,
+              "type": "men",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 181.48000000000002,
+          "orderDate": "2024-10-16T09:04:02.441Z"
+        },
+        {
+          "user": {
+            "name": "muhammed",
+            "address": "sdac",
+            "mobile": "9048220313"
+          },
+          "items": [
+            {
+              "id": "2",
+              "name": "Casual Sneaker ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b1778add-1da0-4891-b830-f5105b15ea56/AIR+JORDAN+1+RETRO+HIGH+OG+GS.png",
+              "price": 45.99,
+              "type": "men",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 45.99,
+          "orderDate": "2024-10-16T09:36:49.496Z"
+        }
+      ]
+    },
+    {
+      "id": "9841",
+      "Username": "muammed",
+      "Email": "muhammed@gmail.com",
+      "Password": "1111111",
+      "Active": true,
+      "cart": [
+        {
+          "id": "26",
+          "name": "Trail Shoe ",
+          "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/3734f2bb-6e08-415e-a328-dcda54b69116/NIKE+LUNAR+ROAM.png",
+          "price": 89.99,
+          "type": "women",
+          "quantity": 1
+        }
+      ],
+      "orders": [
+        {
+          "user": {
+            "name": "muhammed",
+            "address": "dadfdwq",
+            "mobile": "9048220313"
+          },
+          "items": [
+            {
+              "id": "2",
+              "name": "Casual Sneaker ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b1778add-1da0-4891-b830-f5105b15ea56/AIR+JORDAN+1+RETRO+HIGH+OG+GS.png",
+              "price": 45.99,
+              "type": "men",
+              "quantity": 1
+            },
+            {
+              "id": "3",
+              "name": "Sports Shoe ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5fb82b1a-95bd-4cbb-87a6-a845a68203dc/NIKE+GO+FLYEASE.png",
+              "price": 75.5,
+              "type": "men",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 121.49000000000001,
+          "orderDate": "2024-10-16T09:38:21.818Z"
+        }
+      ]
+    },
+    {
+      "id": "6fce",
+      "Username": "nifras",
+      "Email": "nifras@gmail.com",
+      "Password": "111111",
+      "Active": true,
+      "cart": [],
+      "orders": [
+        {
+          "user": {
+            "name": " n,xz jx",
+            "address": "xcx",
+            "mobile": "1111111111"
+          },
+          "items": [
+            {
+              "id": "2",
+              "name": "Casual Sneaker ",
+              "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/u_126ab356-44d8-4a06-89b4-fcdcc8df0245,c_scale,fl_relative,w_1.0,h_1.0,fl_layer_apply/b1778add-1da0-4891-b830-f5105b15ea56/AIR+JORDAN+1+RETRO+HIGH+OG+GS.png",
+              "price": 45.99,
+              "type": "men",
+              "quantity": 1
+            }
+          ],
+          "totalPrice": 45.99,
+          "orderDate": "2024-10-21T05:49:50.808Z"
+        }
+      ]
+    }
+  ]
+}
